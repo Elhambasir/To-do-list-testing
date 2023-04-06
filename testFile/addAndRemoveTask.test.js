@@ -1,4 +1,4 @@
-const { addTask, removeTask } = require('../_mocks_/addToList.js');
+const { addTask, removeTask } = require('../_mocks_/addAndRemoveTask.js');
 
 describe('Add and Remove To-do-list', () => {
   test('should add items', () => {
