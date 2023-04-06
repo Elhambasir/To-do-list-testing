@@ -218,7 +218,6 @@ This project is deployed at github pages you can clone it here. [Please click to
  👤 **Abdi Bekele**
 - GitHub: [Abdi Bekele](https://github.com/Lul-Abdifan)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdi-bekele-a63860254/)
-- e-mail: [tasanbannu@gmail.com](mailto:tasanbannu@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
