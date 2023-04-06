@@ -3,9 +3,8 @@
 
 <div align="center">
 
-<img src="./src/images/basirElham.jpg" alt="logo" width="140"  height="auto" />
 
-  <h3><b>To do List Project</b></h3>
+  <h3><b>Too-Js Testing</b></h3>
 </div>
 
 <h1>Capstone Project Module-1</h1>
