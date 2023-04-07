@@ -215,7 +215,8 @@ This project is deployed at github pages you can clone it here. [Please click to
 - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/basir-ahmadi-8aba89263)
 - Email: elham1378basir@gmail.com
   <br>
- 👤 **Abdi Bekele**
+  <br>
+👤 **Abdi Bekele**
 - GitHub: [Abdi Bekele](https://github.com/Lul-Abdifan)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdi-bekele-a63860254/)
 
